@@ -1,0 +1,32 @@
+body {
+    background: rgba(89, 89, 245, 0.57);
+}
+
+.h1 {
+    background: #fdc200;
+    color: #4f0000;
+    text-align: center;
+}
+
+
+
+a {
+    color: #1f1f1f;
+    text-decoration: none;
+    background: #fdc200;
+}
+
+p{
+    color: black;
+    background: #fdc200;
+}
+
+ul {
+    color: black;
+    background: rgba(21, 126, 192, 0.6);
+}
+
+
+
+
+
