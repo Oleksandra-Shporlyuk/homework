@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 70px;
+    background: #807f7f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px 0 30px;
+    box-sizing: border-box;
+
+}
+
+.bluebox {
+    width: 150px;
+    height: 40px;
+    background: rgba(89, 89, 245, 0.57);
+    border-radius: 10px;
+
+}
+.nav {
+    font-size: 25px;
+    color: rgb(52, 52, 52)
+}
+
+.content {
+    height: 400px;
+    background: rgba(89, 89, 245, 0.57);
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background: #807f7f;
+    margin: 20px;
+    border-radius: 15px;
+    position: absolute;
+
+}
+.box1 {
+    left: 400px;
+}
+.box3 {
+    right: 400px;
+}
+.boxs {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
