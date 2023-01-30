@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+
+.a {
+    /*width: 100%;*/
+    height: 200px;
+    background: silver;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bc {
+    height: 600px;
+    display: flex;
+    margin: 10px;
+}
+
+.b {
+    height: 300px;
+    background: silver;
+    border-radius: 10px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background: silver;
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 767px) {
+
+    .a {
+        height: 100px;
+    }
+    .bc {
+        flex-direction: column;
+    }
+    .b {
+        width: 100%;
+    }
+    .c {
+        width: 100%;
+        margin: 10px 0;
+        height: 100px;
+    }
+
+}

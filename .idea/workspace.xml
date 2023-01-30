@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce6e1050-13e4-4c9b-9d51-8c083adcace3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/page1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/page1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/page2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/page2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/materials/images/favorite_FILL0_wght400_GRAD0_opsz48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/materials/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/materials/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/page1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/page1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/page2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/page2/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/page2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +56,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\lesson4\page1" />
       <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\lesson3\page1" />
       <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\lesson3" />
       <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\materials\images" />
       <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\lesson2\page1" />
-      <recent name="C:\Users\Olexandra\IdeaProjects\dec-2022-channel\lesson2\page2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +78,10 @@
       <workItem from="1674218850785" duration="9912000" />
       <workItem from="1674488920858" duration="4320000" />
       <workItem from="1674494093780" duration="3000" />
-      <workItem from="1674644607124" duration="6875000" />
+      <workItem from="1674644607124" duration="7484000" />
+      <workItem from="1675009420998" duration="12687000" />
+      <workItem from="1675064606802" duration="46000" />
+      <workItem from="1675064677919" duration="2423000" />
     </task>
     <task id="LOCAL-00001" summary="homework lesson 1">
       <created>1674038704183</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674473655486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework">
+      <created>1674652327368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674652327368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
